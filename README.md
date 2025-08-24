@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sayyad Hamza</h1>
 <h3 align="center">A CyberSecurity Enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Kali linux**
+- 🌱 I’m currently learning **Google Cybersecurity Professional Certificate**
 
 - 📫 How to reach me **sayyadhamza14@gmail.com**
 
